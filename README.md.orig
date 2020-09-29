@@ -1,0 +1,9 @@
+#Header
+
+modify1
+
+<<<<<<< HEAD
+I hope this isn't a problem
+=======
+this is bound to cause trouble
+>>>>>>> very-bad
